@@ -1,306 +1,54 @@
-POST http://localhost:8081
-Content-Type: application/x-www-form-urlencoded
+GET http://localhost:8080/demo/queryAll
 
-url=https://music.163.com/#/discover/playlist
-
-<> 2018-07-04T120536.200.html
+<> 2018-07-09T110948.200.json
 
 ###
 
-POST http://localhost:8081
+POST http://localhost:8080/demo/insert
 Content-Type: application/x-www-form-urlencoded
 
-url=https://music.163.com/#/discover/playlist
+name=test3
 
-<> 2018-07-03T041957.200.html
+<> 2018-07-09T110941.200.json
 
 ###
 
-POST http://localhost:8081
-Content-Type: application/x-www-form-urlencoded
+GET http://localhost:8080/demo/queryAll
 
-url=https://music.163.com/#/discover/playlist
-
-<> 2018-07-03T041854.200.html
+<> 2018-07-09T110848.200.json
 
 ###
 
-POST http://localhost:8081
+POST http://localhost:8080/demo/insert
 Content-Type: application/x-www-form-urlencoded
 
-url=https://music.163.com/#/song?id=35847388
+name=test2
 
-<> 2018-07-03T041509.200.html
+<> 2018-07-09T110745.200.json
 
 ###
 
-POST http://localhost:8081
-Content-Type: application/x-www-form-urlencoded
+GET http://localhost:8080/demo/queryAll
 
-url=https://music.163.com/#/song?id=35847388
-
-<> 2018-07-03T041014.200.html
+<> 2018-07-09T110417.200.json
 
 ###
 
-POST http://localhost:8081
-Content-Type: application/x-www-form-urlencoded
+GET http://localhost:8080/demo/queryAll
 
-url=https://music.163.com/#/song?id=35847388
-
-<> 2018-07-01T104537.200.html
+<> 2018-07-09T105709.500.json
 
 ###
 
-POST http://localhost:8081
-Content-Type: application/x-www-form-urlencoded
+GET http://localhost:8080/demo/queryAll
 
-url=https://music.163.com/#/song?id=35847388
-
-###
-
-POST http://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/#/song?id=35847388
+<> 2018-07-09T105626.500.json
 
 ###
 
-POST http://localhost:8081
-Content-Type: application/x-www-form-urlencoded
+GET http://localhost:8080/demo/queryAll
 
-url=https://music.163.com/#/song?id=35847388
-
-###
-
-POST http://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/#/song?id=35847388
-
-###
-
-POST http://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/#/song?id=35847388
-
-###
-
-POST http://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/#/song?id=35847388
-
-###
-
-POST https://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/#/song?id=35847388
-
-###
-
-POST https://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/#/song?id=35847388
-
-###
-
-POST https://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/song?id=35847388
-
-###
-
-POST https://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/song?id=35847388
-
-###
-
-POST https://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/song?id=35847388
-
-###
-
-POST https://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/song?id=35847388
-
-###
-
-POST https://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/song?id=35847388
-
-###
-
-POST https://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/song?id=35847388
-
-###
-
-POST https://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/song?id=35847388
-
-###
-
-POST https://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/song?id=35847388
-
-###
-
-POST https://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/song?id=35847388
-
-###
-
-POST https://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/song?id=35847388
-
-###
-
-POST https://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/song?id=35847388
-
-###
-
-POST http://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/song?id=35847388
-
-###
-
-POST http://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/song?id=35847388
-
-###
-
-POST http://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/#/song?id=35847388
-
-###
-
-POST http://localhost:8080
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/#/song?id=35847388
-
-###
-
-POST http://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=http://music.163.com/#/song?id=35847388
-
-###
-
-POST https://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/#/song?id=35847388
-
-###
-
-POST https://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/#/song?id=35847388
-
-###
-
-POST http://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/#/song?id=35847388
-
-###
-
-POST http://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/#/song?id=35847388
-
-###
-
-POST http://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/#/song?id=35847388
-
-###
-
-POST http://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/song?id=35847388
-
-###
-
-POST http://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/song?id=35847388
-
-###
-
-POST http://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/song?id=35847388
-
-###
-
-POST http://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/song?id=35847388
-
-###
-
-POST https://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=http://music.163.com/song?id=35847388
-
-###
-
-POST https://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=http://music.163.com/song?id=35847388
-
-###
-
-POST https://localhost:8081
-Content-Type: application/x-www-form-urlencoded
-
-url=https://music.163.com/song?id=35847388
+<> 2018-07-09T102758.500.json
 
 ###
 
