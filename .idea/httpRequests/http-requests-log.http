@@ -3,6 +3,31 @@ Content-Type: application/x-www-form-urlencoded
 
 playListId=1
 
+<> 2018-07-14T064815.500.json
+
+###
+
+POST http://localhost:8080/playlist/add
+Content-Type: application/x-www-form-urlencoded
+
+id=6&title=3
+
+<> 2018-07-14T064659.200.json
+
+###
+
+POST http://localhost:8080/playlist/query
+Content-Type: application/x-www-form-urlencoded
+
+<> 2018-07-14T064633.500.json
+
+###
+
+POST http://localhost:8080/playlist/querysongs
+Content-Type: application/x-www-form-urlencoded
+
+playListId=1
+
 <> 2018-07-10T095407.500.json
 
 ###
